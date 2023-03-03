@@ -1,2 +1,2 @@
 # jenkins-maven
-this is a test
+this is a test to verify a connection
